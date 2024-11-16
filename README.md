@@ -1,4 +1,4 @@
-# CNN-Image-Classification-on-CIFAR-10-Dataset-Deep-Learning-Model-for-AI-Image-Recognition by @M-FaizanMahmood
+# CNN-Image-Classification-on-CIFAR-10-Dataset-Deep-Learning-Model-for-AI-Image-Recognition by @m-faizanmahmod
 
 
 This project demonstrates a deep learning-based image classification model using Convolutional Neural Networks (CNN) to classify images from the CIFAR-10 dataset. The model is implemented with TensorFlow and Keras, leveraging advanced machine learning techniques in Python. The dataset consists of 60,000 32x32 color images categorized into 10 classes.
